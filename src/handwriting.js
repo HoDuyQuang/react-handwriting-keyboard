@@ -202,7 +202,7 @@ class Handwriting {
             writing_area_height: this.options.height || this.width || undefined
           },
           ink: this.trace,
-          language: this.options.language || 'zh_CN'
+          language: this.options.language || 'ja_JP'
         }
       ]
     });
